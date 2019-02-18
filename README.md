@@ -1,7 +1,7 @@
 # laravel-locale-app
 
-Setup Database
+### Setup Database
 
-## 1. load localhost/language
+1. Load localhost/language
 
-## 2. load localhost/article
+2. Load localhost/article
